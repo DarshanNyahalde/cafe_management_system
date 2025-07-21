@@ -34,3 +34,6 @@ Java Swing: For the graphical user interface.
 NetBeans IDE: The .form files indicate that the UI was developed using NetBeans' GUI builder   
 <img width="1727" height="978" alt="Screenshot 2024-10-23 163952" src="https://github.com/user-attachments/assets/e238a4d8-2393-407d-8881-790d5cbe6d44" />
 
+signUp   
+
+<img width="1707" height="948" alt="signup" src="https://github.com/user-attachments/assets/850f9459-f496-48d1-8aa7-93d5b5f88a44" />
